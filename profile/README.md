@@ -25,8 +25,8 @@
 ### 📊 Datasets & Field Research
 | Asset | Description | Access |
 | :--- | :--- | :--- |
+| **CRASAR** | Center for Robot Assisted Search and Rescue | [GitHub](https://github.com/CRASAR/WiSAR/) |
 | **CRASAR-U-DROIDs** | Field robotics and disaster response dataset | [HuggingFace](https://huggingface.co/datasets/CRASAR/CRASAR-U-DROIDs) |
-| **WiSAR** | Robot Assisted Search and Rescue data | [CRASAR/WiSAR](https://github.com/CRASAR/WiSAR/) |
 
 ### 🏛️ Affiliated Research Labs
 | Laboratory | Institutional Focus | Home Page |
