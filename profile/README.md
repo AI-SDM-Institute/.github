@@ -39,7 +39,7 @@
 
 ---
 
-### 🏛️ Our Partner Network
+### 🤝 Our Partner Network
 We leverage expertise from across the nation to address complex societal challenges.
 
 <p align="center">
