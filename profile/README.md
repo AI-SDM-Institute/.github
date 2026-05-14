@@ -8,15 +8,34 @@
 
 ---
 
-### 📂 Research Directory
-*Our repositories represent the collective output of 11 partner institutions. Use the links below to navigate our primary research clusters.*
+## 📂 Research Directory & Resources
+*The following resources are developed and maintained by AI-SDM funded labs and senior personnel.*
 
-| Research Cluster | Focus Area | Access Repository |
+### 🛠️ Software, Platforms & Toolboxes
+| Resource Name | Description | Source |
 | :--- | :--- | :--- |
-| **🏥 Public Health** | Resource allocation & epidemiology | [Browse Code](#) |
-| **🌪️ Disaster Response** | Logistics & emergency coordination | [Browse Code](#) |
-| **⚖️ Ethics & Policy** | Algorithmic fairness & social impact | [Browse Code](#) |
-| **🛠️ Core AI Theory** | Decision-support & fundamental ML | [Browse Code](#) |
+| **CORA Platform** | ARC Game for decision-making research | [DDM-Lab/ARC_Game](https://github.com/DDM-Lab/ARC_Game) |
+| **Uncertainty Toolbox** | Tools for quantifying AI uncertainty | [GitHub](https://github.com/uncertainty-toolbox/uncertainty-toolbox) |
+| **Causal Learning** | Python library for causal discovery | [py-why/causal-learn](https://github.com/py-why/causal-learn) |
+| **GAMMA** | Generative Agent Modeling for Human-AI Collaboration | [GitHub](https://github.com/lych1233/GAMMA-human-ai-collaboration) |
+| **SOAP Optimizer** | High-performance optimization framework | [GitHub](https://github.com/nikhilvyas/SOAP) |
+| **MOD** | Multi-Objective Decoding research | [GitHub](https://github.com/srzer/MOD) |
+| **DPO Samplers** | Samplers in Online Direct Preference Optimization | [GitHub](https://github.com/srzer/samplers-in-online-dpo) |
+
+### 📊 Datasets & Field Research
+| Asset | Description | Access |
+| :--- | :--- | :--- |
+| **CRASAR-U-DROIDs** | Field robotics and disaster response dataset | [HuggingFace](https://huggingface.co/datasets/CRASAR/CRASAR-U-DROIDs) |
+| **WiSAR** | Robot Assisted Search and Rescue data | [CRASAR/WiSAR](https://github.com/CRASAR/WiSAR/) |
+
+### 🏛️ Affiliated Research Labs
+| Laboratory | Institutional Focus | Home Page |
+| :--- | :--- | :--- |
+| **DDM Lab** | Dynamic Decision Making Lab | [Visit Lab](https://github.com/DDM-Lab) |
+| **DCML Group** | Data-Centric Machine Learning | [Visit Lab](https://github.com/dcml-lab) |
+| **LASI Lab** | Lab for AI and Social Impact | [Visit Lab](https://github.com/lasilab) |
+| **THiCC Lab** | The Human in Computing and Cognition | [Visit Lab](https://github.com/THiCC-Lab) |
+| **Kempner Institute** | Intelligence research at Harvard | [Visit Institute](https://github.com/KempnerInstitute/) |
 
 ---
 
