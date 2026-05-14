@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/../main-banner.jpg" alt="NSF AI-SDM Institute Banner" width="800">
+  <img src="../assets/main-banner.jpg" alt="NSF AI-SDM Institute Banner" width="800">
 </p>
 
 # NSF AI Institute for Societal Decision Making (NSF AI-SDM)
