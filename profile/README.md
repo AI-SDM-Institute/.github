@@ -4,7 +4,7 @@
 
 # NSF AI Institute for Societal Decision Making (NSF AI-SDM)
 
-**AI-SDM**, led by Carnegie Mellon University, is a multidisciplinary effort dedicated to developing human-centric AI tools that improve decision-making in high-stakes social contexts. Supported by the National Science Foundation, we focus on public health, disaster response, and community resilience.
+**NSF AI-SDM**, led by Carnegie Mellon University, is a multidisciplinary effort dedicated to developing human-centric AI tools that improve decision-making in high-stakes social contexts. Supported by the National Science Foundation, we focus on public health, disaster response, and community resilience.
 
 ---
 
