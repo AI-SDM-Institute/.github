@@ -14,9 +14,9 @@
 ### 🛠️ Software, Platforms & Toolboxes
 | Resource Name | Description | Source |
 | :--- | :--- | :--- |
-| **CORA Platform** | ARC Game for decision-making research | [DDM-Lab/ARC_Game](https://github.com/DDM-Lab/ARC_Game) |
+| **CORA Platform** | Red Cross Game for decision-making research | [GitHub](https://github.com/DDM-Lab/ARC_Game) |
 | **Uncertainty Toolbox** | Tools for quantifying AI uncertainty | [GitHub](https://github.com/uncertainty-toolbox/uncertainty-toolbox) |
-| **Causal Learning** | Python library for causal discovery | [py-why/causal-learn](https://github.com/py-why/causal-learn) |
+| **Causal Learning** | Python library for causal discovery | [GitHub](https://github.com/py-why/causal-learn) |
 | **GAMMA** | Generative Agent Modeling for Human-AI Collaboration | [GitHub](https://github.com/lych1233/GAMMA-human-ai-collaboration) |
 | **SOAP Optimizer** | High-performance optimization framework | [GitHub](https://github.com/nikhilvyas/SOAP) |
 | **MOD** | Multi-Objective Decoding research | [GitHub](https://github.com/srzer/MOD) |
@@ -35,7 +35,7 @@
 | **DCML Group** | Data-Centric Machine Learning | [Visit Lab](https://github.com/dcml-lab) |
 | **LASI Lab** | Lab for AI and Social Impact | [Visit Lab](https://github.com/lasilab) |
 | **THiCC Lab** | The Human in Computing and Cognition | [Visit Lab](https://github.com/THiCC-Lab) |
-| **Kempner Institute** | Intelligence research at Harvard | [Visit Institute](https://github.com/KempnerInstitute/) |
+| **Kempner Institute** | Natural & Artificial Intelligence Research | [Visit Institute](https://github.com/KempnerInstitute/) |
 
 ---
 
