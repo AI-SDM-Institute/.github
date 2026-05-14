@@ -53,7 +53,7 @@ For more information on our research, publications, and data management practice
 * **Official Website:** [cmu.edu/ai-sdm](https://cmu.edu/ai-sdm)
 * **LinkedIn:** [AI-SDM on LinkedIn](https://www.linkedin.com/company/ai-sdm/)
 * **YouTube:** [AI-SDM on YouTube](https://www.youtube.com/@ai-sdm)
-* **Contact:** Reach out to the Managing Director, Norman Gottron [ngottron@andrew.cmu.edu](mailto:ngottron@andrew.cmu.edu) collaborative inquiries.
+* **Contact:** Reach out to the Managing Director, Norman Gottron [ngottron@andrew.cmu.edu](mailto:ngottron@andrew.cmu.edu) with collaborative inquiries.
 
 ---
 <p align="center">
