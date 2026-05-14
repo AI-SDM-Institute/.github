@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/main-banner.jpg" alt="NSF AI-SDM Institute Banner" width="800">
+  <img src="assets/../main-banner.jpg" alt="NSF AI-SDM Institute Banner" width="800">
 </p>
 
 # NSF AI Institute for Societal Decision Making (NSF AI-SDM)
@@ -24,7 +24,7 @@
 We leverage expertise from across the nation to address complex societal challenges.
 
 <p align="center">
-  <img src="assets/partner-logos.png" alt="AI-SDM Partner Institutions" width="100%">
+  <img src="../assets/partner-logos.png" alt="AI-SDM Partner Institutions" width="100%">
 </p>
 
 ---
