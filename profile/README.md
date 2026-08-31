@@ -21,7 +21,8 @@
 | **SOAP Optimizer** | High-performance optimization framework | [GitHub](https://github.com/nikhilvyas/SOAP) |
 | **MOD** | Multi-Objective Decoding research | [GitHub](https://github.com/srzer/MOD) |
 | **DPO Samplers** | Samplers in Online Direct Preference Optimization | [GitHub](https://github.com/srzer/samplers-in-online-dpo) |
-| **Meta AI for Good** | Collaborative project with Meta AI for Good | [GitHub](https://github.com/jaylouissaint/AISDM_Meta) |
+<!--| **Meta AI for Good** | Collaborative project with Meta AI for Good | [GitHub](https://github.com/jaylouissaint/AISDM_Meta) | -->
+| **Meta AI for Good** | Collaborative repository with Meta AI for Good | [GitHub](https://github.com/selinacarter/AISDM-Meta-Repo) |
 
 ### 📊 Datasets & Field Research
 | Asset | Description | Access |
